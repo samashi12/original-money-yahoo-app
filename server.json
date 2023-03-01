@@ -30,7 +30,7 @@
 	 
 	 "show web view 1": true,	 
 	 "show web view 2": true,	 
-	 "show web view 3": false,
+	 "show web view 3": true,
 	 
 	 "web view text 1": "facebook.com",
 	 "web view text 2": "instagram.com",
