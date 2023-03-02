@@ -3,7 +3,7 @@
     "data": {
 	  
       "admob banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob native": ".",
       "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
 	  
       "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -15,7 +15,7 @@
       "start Activity Native": ".",
 	  
       "main Activity Inter": "admob",
-      "main Activity Banner": ".",
+      "main Activity Banner": "admob",
 	  
       "web Activity Banner": ".",
 	  
