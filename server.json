@@ -11,7 +11,7 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
 	  
-      "start Activity Inter": "admob",
+      "start Activity Inter": ".",
       "start Activity Native": ".",
 	  
       "main Activity Inter": "admob",
